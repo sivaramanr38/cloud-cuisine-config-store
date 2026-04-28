@@ -3,7 +3,7 @@ spring:
     url: jdbc:postgresql://localhost:5432/cloud-cuisine
     driver-class-name: org.postgresql.Driver
     username: postgres
-    password: secret
+    password: 1234
   jpa:
     hibernate:
       ddl-auto: update
